@@ -10,7 +10,7 @@ Date : 2016.10.12
 Update : 2016.10.24
 
 ========== ========== =======
-   COM        YOU    
+ COMPUTER     USER         
 ========== ========== =======
 Rock        Rock       Draw
 Rock        Scissors   Lose
