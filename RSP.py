@@ -10,17 +10,17 @@ Date : 2016.10.12
 Update : 2016.10.24
 
 ========== ========== =======
-   COM        YOU    
+ COMPUTER     USER
 ========== ========== =======
-Rock        Rock       Draw
-Rock        Scissors   Lose
-Rock        Paper      Win
-Scissors    Rock       Win
-Scissors    Scissors   Draw
-Scissors    Paper      Lose
-Paper       Rock       Lose
-Paper       Scissors   Win
-Paper       Paper      Draw
+바위         바위         무승부
+바위         가위         패배
+바위         보           승리
+가위         바위         승리
+가위         가위         무승부
+가위         보           패배
+보          바위          패배
+보          가위          승리
+보          보           무승부
 ========== ========== =======
 
 =============================
